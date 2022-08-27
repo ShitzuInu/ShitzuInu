@@ -23,3 +23,9 @@
 ## social info
 
 * [😍 Shitu Inu](https://shitzuinu.us/)
+* [😍 Twitter](https://twitter.com/\_Shitzu\_Inu)
+* [😍 Medium](https://medium.com/@Shitzu\_Inu)
+* [😍 Reddit](https://www.reddit.com/user/Shitzu\_Inu)
+* [😍 Discord](https://discord.gg/qajnTkhs98)
+* [😍 Linktree](https://linktr.ee/shitzu\_inu)
+* [😍 Youtube](https://www.youtube.com/channel/UCZppTj6Muy5MXem6H93neXw)
