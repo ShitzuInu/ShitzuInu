@@ -7,7 +7,7 @@
 * [🧸 Rewards](overview-shitzu/rewards.md)
 * [🧸 What is $SHITZU Coin?](overview-shitzu/what-is-usdshitzu-coin.md)
 * [🧸 Jackpot](overview-shitzu/jackpot.md)
-* [🧸 Roadmap $PITI](overview-shitzu/roadmap-usdpiti.md)
+* [🧸 Roadmap](overview-shitzu/roadmap.md)
 
 ## Tokenomics SHITZU
 
