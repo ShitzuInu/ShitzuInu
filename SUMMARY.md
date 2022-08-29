@@ -4,9 +4,9 @@
 
 ## OVERVIEW Shitzu
 
+* [🧸 About Shitzu Inu](overview-shitzu/about-shitzu-inu.md)
 * [🧸 Rewards](overview-shitzu/rewards.md)
-* [🧸 What is $SHITZU Coin?](overview-shitzu/what-is-usdshitzu-coin.md)
-* [🧸 Jackpot](overview-shitzu/jackpot.md)
+* [🧸 Big POT](overview-shitzu/big-pot.md)
 * [🧸 Roadmap](overview-shitzu/roadmap.md)
 
 ## Tokenomics SHITZU
@@ -15,10 +15,6 @@
 * [🧸 Transaction fee](tokenomics-shitzu/transaction-fee.md)
 * [☑ Fairlaunch - Pinksale](tokenomics-shitzu/fairlaunch-pinksale.md)
 * [☑ KYC and Audit](tokenomics-shitzu/kyc-and-audit.md)
-
-## Instructions
-
-* [⁉ FAQ](instructions/faq.md)
 
 ## social info
 

@@ -5,18 +5,17 @@ coverY: 0
 
 # 🧸 Allocation
 
-#### Total Supply: **** 100,000,000,000,000,000 **PITI**
+#### Total Supply: ****&#x20;
 
-**Project Name:** Pitbull Inu
+**Project Name: Shitzu Inu**
 
-**Symbol:** PITI
+**Symbol:** **Shitzu**
 
-**Blockchain:** BEP20
+**Blockchain:** **BEP20**
 
-* [x] **Presale: 55%**
-* [x] **Liquidity: 30%**
-* [x] **Burn: 11%**
-* [x] **Airdrop: 4%**
+* [x] **Presale:**&#x20;
+* [x] **Liquidity:**&#x20;
+* [x] **Airdrop:**&#x20;
 
 **Presale Start Time:**&#x20;
 
@@ -24,6 +23,6 @@ coverY: 0
 
 **Listing On**: **PancakeSwap**
 
-**Tokens For Presale:** 55,000,000,000,000,000 PITI
+**Tokens For Presale:**&#x20;
 
-**Tokens For Liquidity**: 30,000,000,000,000,000 PITI
+**Tokens For Liquidity**:&#x20;

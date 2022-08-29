@@ -1,9 +1,12 @@
 ---
+description: >-
+  Stay on top of everything that is being delivered by the team, and about the
+  development of the project
 cover: ../.gitbook/assets/CAPA GITBOOK.png
 coverY: 0
 ---
 
-# 🧸 Roadmap $PITI
+# 🧸 Roadmap
 
 ## PHASE 1
 
