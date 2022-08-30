@@ -7,9 +7,3 @@ coverY: 0
 # 🧸 Rewards
 
 2% on buys and 2% on sells.
-
-## Purchase Fees
-
-This is 2% for marketing development, where our team will invest in outreach, prioritizing influencers and groups with large communities.
-
-## Sales Fees

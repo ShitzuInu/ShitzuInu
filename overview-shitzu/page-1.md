@@ -1,7 +1,14 @@
 # Page 1
 
-<img src="https://catecoin.club/assets/img/metamask.svg" alt="" data-size="line">
+<img src="https://catecoin.club/assets/img/metamask.svg" alt="" data-size="line"> **1. Step: Install Metamask for Chrome**
 
-#### 1. Step: Install Metamask for Chrome
+Go to Metamask **** [**(CLICK HERE)**](https://metamask.io/) and install the Chrome extension. Follow their steps from the guide and finish the setup
 
-Go to Metamask [(CLICK HERE)](https://metamask.io/) and install the Chrome extension. Follow their steps from the guide and finish the setup
+<img src="https://catecoin.club/assets/img/bnb.svg" alt="" data-size="line">**2. Step: Send BNB to Metamask**
+
+Once you have setup metamask, you can send BNB from an exchange like Kraken, Coinbase or Binance to your Metamask address
+
+<img src="https://catecoin.club/assets/img/pancakeswap-cake-logo.svg" alt="" data-size="line">**3. Step: Connect to Pancakeswap**
+
+Go to [**PANCAKESWAP.Finance**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xE4FAE3Faa8300810C835970b9187c268f55D998F) and click the "Connect" button. When Metamask asks for your signature, go ahead and sign it.
+
