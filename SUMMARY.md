@@ -7,6 +7,7 @@
 * [🧸 About Shitzu Inu](overview-shitzu/about-shitzu-inu.md)
 * [🧸 Rewards](overview-shitzu/rewards.md)
 * [🧸 Big POT](overview-shitzu/big-pot.md)
+* [Page 1](overview-shitzu/page-1.md)
 * [🧸 Roadmap](overview-shitzu/roadmap.md)
 
 ## Tokenomics SHITZU
