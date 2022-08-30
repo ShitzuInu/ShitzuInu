@@ -5,14 +5,15 @@
 ## OVERVIEW Shitzu
 
 * [🐶 About Shitzu Inu](overview-shitzu/about-shitzu-inu.md)
-* [🐶 Rewards](overview-shitzu/rewards.md)
 * [🐶 Big POT](overview-shitzu/big-pot.md)
+* [🐶 Shitzu Inu wallet](overview-shitzu/shitzu-inu-wallet.md)
+* [🐶 Shitzu Inu Blockchain](overview-shitzu/shitzu-inu-blockchain.md)
 * [🐶 How to buy Shitzu?](overview-shitzu/how-to-buy-shitzu.md)
 
 ## Tokenomics SHITZU
 
 * [🐶 Allocation](tokenomics-shitzu/allocation.md)
-* [🐶 Transaction fee](tokenomics-shitzu/transaction-fee.md)
+* [🐶 Shitzu Inu fees](tokenomics-shitzu/shitzu-inu-fees.md)
 * [🐶 Roadmap](tokenomics-shitzu/roadmap.md)
 * [☑ Fairlaunch - Pinksale](tokenomics-shitzu/fairlaunch-pinksale.md)
 * [☑ KYC and Audit](tokenomics-shitzu/kyc-and-audit.md)

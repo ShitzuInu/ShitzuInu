@@ -6,10 +6,12 @@ coverY: 0
 
 # 🐶 Big POT
 
-The last 30 buyers who purchased SHITZU get to enter the BIG POT.
+:smile:The last 30 buyers who purchased SHITZU get to enter the BIG POT.
 
-If there are no purchases for 40 minutes, one of the last 30 buyers will get 15% of the BIG POT wallet!
+:clap:If there are no purchases for **40 minutes**, one of the last 30 buyers will get **15%** of the BIG POT wallet!
 
-BIG POT wallet is a wallet that receives 0% Marketing tax
+:joy:BIG POT wallet is a wallet that receives **2%** Marketing tax
 
-Note: Must buy 1 BNB or more to enter the BIG POT
+:tada:Note: Must buy 1 BNB or more to enter the **BIG POT**
+
+<figure><img src="../.gitbook/assets/shitzu big pot¹.png" alt=""><figcaption></figcaption></figure>
