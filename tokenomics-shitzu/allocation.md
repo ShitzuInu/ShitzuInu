@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/CAPA GITBOOK.png
 coverY: 0
 ---
 
-# 🧸 Allocation
+# 🐶 Allocation
 
 #### Total Supply: ****&#x20;
 

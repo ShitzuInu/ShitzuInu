@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/CAPA GITBOOK.png
 coverY: 0
 ---
 
-# 🧸 Big POT
+# 🐶 Big POT
 
 The last 30 buyers who purchased SHITZU get to enter the BIG POT.
 

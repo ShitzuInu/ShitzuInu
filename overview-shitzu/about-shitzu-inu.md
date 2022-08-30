@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# 🧸 About Shitzu Inu
+# 🐶 About Shitzu Inu
 
 for meme fans and shih tzu lovers, we have created a new cryptocurrency: shitzu inu.
 

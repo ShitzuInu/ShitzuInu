@@ -1,4 +1,9 @@
-# Page 1
+---
+cover: ../.gitbook/assets/CAPA GITBOOK.png
+coverY: 0
+---
+
+# 🐶 How to buy Shitzu?
 
 <img src="https://catecoin.club/assets/img/metamask.svg" alt="" data-size="line"> **1. Step: Install Metamask for Chrome**
 
@@ -12,3 +17,6 @@ Once you have setup metamask, you can send BNB from an exchange like Kraken, Coi
 
 Go to [**PANCAKESWAP.Finance**](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xE4FAE3Faa8300810C835970b9187c268f55D998F) and click the "Connect" button. When Metamask asks for your signature, go ahead and sign it.
 
+#### 🐶4. Step: Swap your BNB for SHITZU
+
+Now you can swap your BNB for SHITZU. Set your slippage to 5-6% . Click on the Swap Button to finalize your trade.

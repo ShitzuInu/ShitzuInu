@@ -1,19 +1,19 @@
 # Table of contents
 
-* [🧸 Shitzu Inu](README.md)
+* [🐶 Shitzu Inu](README.md)
 
 ## OVERVIEW Shitzu
 
-* [🧸 About Shitzu Inu](overview-shitzu/about-shitzu-inu.md)
-* [🧸 Rewards](overview-shitzu/rewards.md)
-* [🧸 Big POT](overview-shitzu/big-pot.md)
-* [Page 1](overview-shitzu/page-1.md)
-* [🧸 Roadmap](overview-shitzu/roadmap.md)
+* [🐶 About Shitzu Inu](overview-shitzu/about-shitzu-inu.md)
+* [🐶 Rewards](overview-shitzu/rewards.md)
+* [🐶 Big POT](overview-shitzu/big-pot.md)
+* [🐶 How to buy Shitzu?](overview-shitzu/how-to-buy-shitzu.md)
 
 ## Tokenomics SHITZU
 
-* [🧸 Allocation](tokenomics-shitzu/allocation.md)
-* [🧸 Transaction fee](tokenomics-shitzu/transaction-fee.md)
+* [🐶 Allocation](tokenomics-shitzu/allocation.md)
+* [🐶 Transaction fee](tokenomics-shitzu/transaction-fee.md)
+* [🐶 Roadmap](tokenomics-shitzu/roadmap.md)
 * [☑ Fairlaunch - Pinksale](tokenomics-shitzu/fairlaunch-pinksale.md)
 * [☑ KYC and Audit](tokenomics-shitzu/kyc-and-audit.md)
 

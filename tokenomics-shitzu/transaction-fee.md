@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/CAPA GITBOOK.png
 coverY: 0
 ---
 
-# 🧸 Transaction fee
+# 🐶 Transaction fee
 
 2% on buys and 2% on sells.
 
