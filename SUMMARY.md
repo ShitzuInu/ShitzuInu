@@ -2,21 +2,21 @@
 
 * [🐶 Shih-Tzu Inu](README.md)
 
-## OVERVIEW Shitzu
+## OVERVIEW ShiH-TZU
 
-* [🐶 About Shih-Tzu Inu](overview-shitzu/about-shih-tzu-inu.md)
-* [🐶 Big POT](overview-shitzu/big-pot.md)
-* [🐶 Shih-Tzu Inu wallet](overview-shitzu/shih-tzu-inu-wallet.md)
-* [🐶 Shih-Tzu Inu Blockchain](overview-shitzu/shih-tzu-inu-blockchain.md)
-* [🐶 How to buy Shih-Tzu ?](overview-shitzu/how-to-buy-shih-tzu.md)
+* [🐶 About Shih-Tzu Inu](overview-shih-tzu/about-shih-tzu-inu.md)
+* [🐶 Big POT](overview-shih-tzu/big-pot.md)
+* [🐶 Shih-Tzu Inu wallet](overview-shih-tzu/shih-tzu-inu-wallet.md)
+* [🐶 Shih-Tzu Inu Blockchain](overview-shih-tzu/shih-tzu-inu-blockchain.md)
+* [🐶 How to buy Shih-Tzu ?](overview-shih-tzu/how-to-buy-shih-tzu.md)
 
-## Tokenomics SHITZU
+## Tokenomics SHIH-TZU
 
-* [🐶 Allocation](tokenomics-shitzu/allocation.md)
-* [🐶 Shih-Tzu Inu fees](tokenomics-shitzu/shih-tzu-inu-fees.md)
-* [🐶 Roadmap](tokenomics-shitzu/roadmap.md)
-* [☑ Fairlaunch - Pinksale](tokenomics-shitzu/fairlaunch-pinksale.md)
-* [☑ KYC and Audit](tokenomics-shitzu/kyc-and-audit.md)
+* [🐶 Allocation](tokenomics-shih-tzu/allocation.md)
+* [🐶 Shih-Tzu Inu fees](tokenomics-shih-tzu/shih-tzu-inu-fees.md)
+* [🐶 Roadmap](tokenomics-shih-tzu/roadmap.md)
+* [☑ Fairlaunch - Pinksale](tokenomics-shih-tzu/fairlaunch-pinksale.md)
+* [☑ KYC and Audit](tokenomics-shih-tzu/kyc-and-audit.md)
 
 ## social info
 

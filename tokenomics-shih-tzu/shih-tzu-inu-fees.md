@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/CAPA GITBOOK.png
+cover: ../.gitbook/assets/CAPA GITBOOK (1).png
 coverY: 0
 ---
 
-# 🐶 Shitzu Inu fees
+# 🐶 Shih-Tzu Inu fees
 
 ## :clap:2% on buys and 2% on sells.
 

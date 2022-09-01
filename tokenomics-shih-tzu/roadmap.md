@@ -2,7 +2,7 @@
 description: >-
   Stay on top of everything that is being delivered by the team, and about the
   development of the project
-cover: ../.gitbook/assets/CAPA GITBOOK.png
+cover: ../.gitbook/assets/CAPA GITBOOK (1).png
 coverY: 0
 ---
 
