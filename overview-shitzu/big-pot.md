@@ -6,7 +6,7 @@ coverY: 0
 
 # 🐶 Big POT
 
-:smile:The last 30 buyers who purchased SHITZU get to enter the BIG POT.
+:smile:The last 30 buyers who purchased Shih-Tzu Inu get to enter the BIG POT.
 
 :clap:If there are no purchases for **40 minutes**, one of the last 30 buyers will get **15%** of the BIG POT wallet!
 

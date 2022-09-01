@@ -7,9 +7,9 @@ coverY: 0
 
 #### Total Supply: ****&#x20;
 
-**Project Name: Shitzu Inu**
+**Project Name: Shih-Tzu Inu**
 
-**Symbol:** **Shitzu**
+**Symbol: Shih-Tzu**&#x20;
 
 **Blockchain:** **BEP20**
 

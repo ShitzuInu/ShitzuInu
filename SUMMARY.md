@@ -1,26 +1,26 @@
 # Table of contents
 
-* [🐶 Shitzu Inu](README.md)
+* [🐶 Shih-Tzu Inu](README.md)
 
 ## OVERVIEW Shitzu
 
-* [🐶 About Shitzu Inu](overview-shitzu/about-shitzu-inu.md)
+* [🐶 About Shih-Tzu Inu](overview-shitzu/about-shih-tzu-inu.md)
 * [🐶 Big POT](overview-shitzu/big-pot.md)
-* [🐶 Shitzu Inu wallet](overview-shitzu/shitzu-inu-wallet.md)
-* [🐶 Shitzu Inu Blockchain](overview-shitzu/shitzu-inu-blockchain.md)
-* [🐶 How to buy Shitzu?](overview-shitzu/how-to-buy-shitzu.md)
+* [🐶 Shih-Tzu Inu wallet](overview-shitzu/shih-tzu-inu-wallet.md)
+* [🐶 Shih-Tzu Inu Blockchain](overview-shitzu/shih-tzu-inu-blockchain.md)
+* [🐶 How to buy Shih-Tzu ?](overview-shitzu/how-to-buy-shih-tzu.md)
 
 ## Tokenomics SHITZU
 
 * [🐶 Allocation](tokenomics-shitzu/allocation.md)
-* [🐶 Shitzu Inu fees](tokenomics-shitzu/shitzu-inu-fees.md)
+* [🐶 Shih-Tzu Inu fees](tokenomics-shitzu/shih-tzu-inu-fees.md)
 * [🐶 Roadmap](tokenomics-shitzu/roadmap.md)
 * [☑ Fairlaunch - Pinksale](tokenomics-shitzu/fairlaunch-pinksale.md)
 * [☑ KYC and Audit](tokenomics-shitzu/kyc-and-audit.md)
 
 ## social info
 
-* [😍 Shitu Inu](https://shitzuinu.us/)
+* [😍 Shih-Tzu ](https://shitzuinu.us/)
 * [😍 Twitter](https://twitter.com/\_Shitzu\_Inu)
 * [😍 Medium](https://medium.com/@Shitzu\_Inu)
 * [😍 Reddit](https://www.reddit.com/user/Shitzu\_Inu)
