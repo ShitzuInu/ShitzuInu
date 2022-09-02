@@ -6,12 +6,12 @@ coverY: 0
 
 # 🐶 Big POT
 
-:smile:The last 30 buyers who purchased Shih-Tzu Inu get to enter the BIG POT.
+:smile:BIG POT Top 30 buyers who bought SHIHTZU enter the BIG POT.&#x20;
 
-:clap:If there are no purchases for **40 minutes**, one of the last 30 buyers will get **15%** of the BIG POT wallet!
+:tada:If there are no purchases for 40 minutes, one of the top 30 buyers will receive 15% of the BIG POT wallet!&#x20;
 
-:joy:BIG POT wallet is a wallet that receives **2%** Marketing tax
+:joy:The BIG POT wallet is a wallet that receives 1% marketing tax
 
-:tada:Note: Must buy 1 BNB or more to enter the **BIG POT**
+&#x20;**Note: Must buy 1 BNB or more to enter BIG POT**
 
 <figure><img src="../.gitbook/assets/shitzu big pot¹.png" alt=""><figcaption></figcaption></figure>
