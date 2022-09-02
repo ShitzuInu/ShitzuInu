@@ -20,11 +20,10 @@
 
 ## social info
 
-* [😍 Shih-Tzu ](https://shitzuinu.us/)
-* [😍 Twitter](https://twitter.com/\_Shitzu\_Inu)
-* [😍 Medium](https://medium.com/@Shitzu\_Inu)
+* [😍 Shih-Tzu ](https://shihtzuinu.us/)
+* [😍 Twitter](https://twitter.com/\_Shih\_tzu\_Inu)
+* [😍 Medium](https://medium.com/@Shih-tzu\_Inu)
 * [😍 Reddit](https://www.reddit.com/user/Shitzu\_Inu)
 * [😍 Discord](https://discord.gg/qajnTkhs98)
-* [😍 Linktree](https://linktr.ee/shitzu\_inu)
-* [😍 Youtube](https://www.youtube.com/channel/UCZppTj6Muy5MXem6H93neXw)
-* [😍 Telegram](https://t.me/ShitzuInuOfficial)
+* [😍 Linktree](https://linktr.ee/shih\_tzu\_inu)
+* [😍 Telegram](https://t.me/ShihTzuInuGlobal)
