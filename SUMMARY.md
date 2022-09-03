@@ -16,7 +16,8 @@
 * [🐶 Shih-Tzu Inu fees](tokenomics-shih-tzu/shih-tzu-inu-fees.md)
 * [🐶 Roadmap](tokenomics-shih-tzu/roadmap.md)
 * [☑ Fairlaunch - Pinksale](tokenomics-shih-tzu/fairlaunch-pinksale.md)
-* [☑ KYC and Audit](tokenomics-shih-tzu/kyc-and-audit.md)
+* [☑ Audit & KYC](tokenomics-shih-tzu/audit-and-kyc.md)
+* [☑ Official Contract](tokenomics-shih-tzu/official-contract.md)
 
 ## social info
 

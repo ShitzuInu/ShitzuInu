@@ -5,19 +5,17 @@ coverY: 0
 
 # 🐶 Shih-Tzu Inu fees
 
-## :clap:2% on buys and 2% on sells.
+## :clap:0% on buys and 2% on sells.
 
-## Purchase Fees
+## 0% Purchase Fees
 
-This is 2% for **marketing** development, where our team will invest in outreach, prioritizing influencers and groups with large communities.
-
-## Sales Fees
+## 2% Sales Fees
 
 Sales fees will be divided into two sectors:
 
-**Liquidity** - 1% will be reversed to maintain the liquidity of the project&#x20;
+**Marketing - 1%** for marketing sequence and an initial part reverted to the Big Pot
 
-**Burn** - 1% will be burned in order to promote scarcity in the token, thus making it more and more valuable.
+**Burn - 1%** will be burned in order to promote scarcity in the token, thus making it more and more valuable.
 
 ## :clap:Low tax to keep liquidity
 
