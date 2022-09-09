@@ -5,4 +5,4 @@ coverY: 0
 
 # ☑ Official Contract
 
-{% embed url="https://bscscan.com/token/0x74d00122a5d038914eae062af8174c888f3166dc" %}
+{% embed url="https://bscscan.com/address/0x74d00122a5d038914EAe062af8174C888F3166Dc" %}
