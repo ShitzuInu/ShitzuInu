@@ -18,6 +18,7 @@
 * [☑ Fairlaunch - Pinksale](tokenomics-shih-tzu/fairlaunch-pinksale.md)
 * [☑ Audit & KYC](tokenomics-shih-tzu/audit-and-kyc.md)
 * [☑ Official Contract](tokenomics-shih-tzu/official-contract.md)
+* [☑ SAFU](tokenomics-shih-tzu/safu.md)
 
 ## social info
 
