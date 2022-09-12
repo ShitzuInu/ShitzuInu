@@ -9,7 +9,7 @@ coverY: 0
 
 we want to build a fun community of memes.
 
-:joy:The **2%** fee of each transaction will be distributed automatically to holders on Shih-Tzu token
+:joy:The **1%** fee of each transaction will be distributed automatically to holders on Shih-Tzu token
 
 contract waived prior to launch for investor safety.
 
