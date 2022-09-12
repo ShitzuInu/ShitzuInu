@@ -5,7 +5,7 @@ coverY: 0
 
 # 🐶 Allocation
 
-#### Total Supply: **1.000.000.000.000.000**
+#### Total Supply:1,000,000,000,000,000 Shih-Tzu
 
 **Project Name: Shih-Tzu Inu**
 
@@ -13,20 +13,20 @@ coverY: 0
 
 **Blockchain:** **BEP20**
 
-* [x] **Presale: 23%**
-* [x] **Liquidity: 12.673%**
+* [x] **Presale: 22.7%**
+* [x] **Liquidity: 19.939%**
 * [x] **Reserve CEX: 10%**
-* [x] **Burnt: 50.327%**
+* [x] **Burnt: 50.361%**
 * [x] **Airdrop and Promotions: 4%**
 
-**Presale Start Time: 2022.09.07 15:00 (UTC)**
+**Presale Start Time: 2022.09.12 14:00 (UTC)**
 
-**Presale End Time:** **2022.09.10 14:00 (UTC)**
+**Presale End Time:** **2022.09.15 15:00 (UTC)**
 
 **Listing On**: **PancakeSwap**
 
-**Tokens For Presale: 229,999,999,999,797  Shih-Tzu**
+**Tokens For Presale:** 226,999,999,999,998 Shih-Tzu
 
-**Tokens For Liquidity: 126,729,999,999,888.14  Shih-Tzu**
+**Tokens For Liquidity:**129,389,999,999,998.86 Shih-Tzu
 
 **Soft Cap: 50 BNB**
