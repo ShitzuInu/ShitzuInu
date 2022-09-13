@@ -7,7 +7,7 @@ coverY: 0
 
 ## ​👏Low tax to keep liquidity <a href="#low-tax-to-keep-liquidity" id="low-tax-to-keep-liquidity"></a>
 
-## ​​👏Taxes go to mkt, Big pot, Holders refletion <a href="#taxes-go-to-mkt-big-pot-holders-refletion" id="taxes-go-to-mkt-big-pot-holders-refletion"></a>
+## ​​👏Taxes go to mkt, BIG POT,Holders refletion <a href="#taxes-go-to-mkt-big-pot-holders-refletion" id="taxes-go-to-mkt-big-pot-holders-refletion"></a>
 
 ## :clap:0% on buys and 2% on sells.
 
