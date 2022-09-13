@@ -5,7 +5,6 @@
 ## OVERVIEW ShiH-TZU
 
 * [🐶 About Shih-Tzu Inu](overview-shih-tzu/about-shih-tzu-inu.md)
-* [🐶 BIG POT Shih-Tzu Inu](overview-shih-tzu/big-pot-shih-tzu-inu.md)
 * [🐶 Shih-Tzu Inu wallet](overview-shih-tzu/shih-tzu-inu-wallet.md)
 * [🐶 Shih-Tzu Inu Blockchain](overview-shih-tzu/shih-tzu-inu-blockchain.md)
 * [🐶 How to buy Shih-Tzu ?](overview-shih-tzu/how-to-buy-shih-tzu.md)
