@@ -11,6 +11,11 @@ The top 30 will receive 15% of the BIG POT wallet! (Note: Divided 15% among the 
 
 The BIG POT wallet is a wallet that receives 1% marketing tax
 
+**BIG POT functionality**\
+****
+
+****
+
 ****:clap:**Note: Must buy 1 BNB or more to enter BIG POT**
 
 <figure><img src="../.gitbook/assets/shitzu big pot¹.png" alt=""><figcaption></figcaption></figure>
