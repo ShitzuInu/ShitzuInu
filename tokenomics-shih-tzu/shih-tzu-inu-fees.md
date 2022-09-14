@@ -19,7 +19,7 @@ coverY: 0
 
 :thumbsup:1% will go to the holders, where the more the investors stay, the more they earn.
 
-:thumbsup:1% will be destined to the Marketing portfolio, with partial division to the Big Pot in the period of a week, for more information access to the side [Broken link](broken-reference "mention")
+:thumbsup:1% will be destined to the Marketing portfolio, with partial division to the Big Pot in the period of a week, for more information access to the side [what-is-the-big-pot.md](../overview-shih-tzu/what-is-the-big-pot.md "mention")
 
 
 
