@@ -9,6 +9,9 @@
 * [🐶 Shih-Tzu Inu Blockchain](overview-shih-tzu/shih-tzu-inu-blockchain.md)
 * [🐶 What is the BIG POT?](overview-shih-tzu/what-is-the-big-pot.md)
 * [🐶 How to buy Shih-Tzu ?](overview-shih-tzu/how-to-buy-shih-tzu.md)
+* [🐶 NFT's](overview-shih-tzu/nfts.md)
+* [💎 NFT's Collections](https://opensea.io/collection/shih-tzu-inu-cute)
+* [💎 Official Profile](https://opensea.io/Shih-tzuInu)
 
 ## Tokenomics SHIH-TZU
 
